@@ -9,10 +9,12 @@ This repository contains a diverse range of Android projects, each demonstrating
 
 <h2>Technologies Used 🛠️</h2>
 The projects in this repository are built using various technologies and libraries such as:
+<ul>
+  <li><b>Kotlin:</b> The modern, statically typed programming language for JVM, Android, and the browser.</li>
+  <li><b>XML:</b> Used for designing the UI of the applications.</li>
+<li><b>Jetpack Compose:</b> The modern toolkit for building native Android UI.</li>
+</ul>
 
-Kotlin: The modern, statically typed programming language for JVM, Android, and the browser.
-XML: Used for designing the UI of the applications.
-Jetpack Compose: The modern toolkit for building native Android UI.
 <h2>Learning Journey 🚀</h2>
 These projects represent my learning journey in Android development. Each project has taught me something new and has helped me become a better developer.
 
